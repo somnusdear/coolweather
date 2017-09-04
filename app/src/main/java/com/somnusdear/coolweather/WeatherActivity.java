@@ -21,6 +21,7 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.somnusdear.coolweather.gson.Forecast;
 import com.somnusdear.coolweather.gson.Weather;
+import com.somnusdear.coolweather.service.AutoUpdateService;
 import com.somnusdear.coolweather.util.HttpUtil;
 import com.somnusdear.coolweather.util.Utility;
 
